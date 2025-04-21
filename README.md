@@ -4,18 +4,6 @@
 
 Welcome to my GitHub! I’m passionate about creating seamless, scalable, and visually engaging web experiences. I specialize in building frontend products that combine performance with great design.
 
-<p>
-  <a href="https://ggsingla.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ggsingla.vercel.app-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/ggsingla" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ggsingla-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ggsingla777@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-ggsingla777@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-</p>
-
 ## 🔧 Tech Stack
 
 - **Languages & Frameworks:** JavaScript, TypeScript, Python, React.js, Next.js, TailwindCSS, HTML, CSS  
@@ -25,27 +13,27 @@ Welcome to my GitHub! I’m passionate about creating seamless, scalable, and vi
 
 ## 🧩 Featured Projects
 
-### 🔹 <a href="https://ggsingla.vercel.app/projects/atc-reward-point-system" target="_blank">ATC Reward Point System</a>  
+### 🔹 [ATC Reward Point System](https://ggsingla.vercel.app/projects/atc-reward-point-system)
 A corporate e-commerce rewards app with SSR, cart/checkout flows, and authentication.
 
-### 🔹 <a href="https://ggsingla.vercel.app/projects/atc-admin-dash" target="_blank">ATC Admin Dashboard</a>  
+### 🔹 [ATC Admin Dashboard](https://ggsingla.vercel.app/projects/atc-admin-dash)
 A full-featured transport management dashboard with analytics, booking, and data visualization.
 
-### 🔹 <a href="https://ggsingla.vercel.app/projects/squadops" target="_blank">SquadOps</a>  
+### 🔹 [SquadOps](https://ggsingla.vercel.app/projects/squadops)
 🏆 2nd place at HackMol 3.0 – A team collaboration platform with real-time AI-driven features.
 
-### 🔹 <a href="https://bhagavadgita.ai" target="_blank">BhagavadGita.AI</a>  
+### 🔹 [BhagavadGita.AI](https://bhagavadgita.ai)
 Redesigned the UI for an open-source spiritual AI platform.
 
-### 🔹 <a href="https://nitj.ac.in" target="_blank">NITJ Official Website</a>  
+### 🔹 [NITJ Official Website](https://nitj.ac.in)
 Led the frontend development and managed a team of 15+ contributors.
 
 ## 💼 Experience
 
-- **Product Engineer @ Adaapt.ai (2023 - Present)**  
+- **Product Engineer @ [Adaapt.ai](https://www.adaapt.ai/) (2023 - Present)**  
   Building AI-powered analytics dashboards with RBAC, NLP, and real-time insights.
 
-- **Frontend Engineer & UI/UX Designer @ Tootler.ai (2022 - 2023)**  
+- **Frontend Engineer & UI/UX Designer @ [Tootler.ai](https://tootler.ai/) (2022 - 2023)**  
   Built performant UIs and an AI-powered SOP generator for international students.
 
 ## 🎓 Education
@@ -55,14 +43,10 @@ Led the frontend development and managed a team of 15+ contributors.
 
 ## 🌱 Let's Connect
 
-<ul>
-  <li><a href="https://ggsingla.vercel.app" target="_blank">🌐 Portfolio</a></li>
-  <li><a href="https://linkedin.com/in/ggsingla" target="_blank">💼 LinkedIn</a></li>
-  <li><a href="mailto:ggsingla777@gmail.com" target="_blank">✉️ ggsingla777@gmail.com</a></li>
-</ul>
+- 🔗 [Portfolio](https://ggsingla.vercel.app)  
+- 💼 [LinkedIn](https://linkedin.com/in/ggsingla)  
+- 📫 ggsingla777@gmail.com  
 
----
+Thanks for stopping by! ⭐️
 
-<p align="center">
-  <img src="https://hit.yhype.me/github/profile?user_id=76390562" alt="GitHub Profile Views" />
-</p>
+![](https://hit.yhype.me/github/profile?user_id=76390562)
