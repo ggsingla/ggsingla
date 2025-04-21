@@ -30,10 +30,10 @@ Led the frontend development and managed a team of 15+ contributors.
 
 ## 💼 Experience
 
-- **Product Engineer @ [Adaapt.ai](https://www.adaapt.ai/) (2023 - Present)**  
+- **Product Engineer [@Adaapt.ai](https://www.adaapt.ai/) (2023 - Present)**  
   Building AI-powered analytics dashboards with RBAC, NLP, and real-time insights.
 
-- **Frontend Engineer & UI/UX Designer @ [Tootler.ai](https://tootler.ai/) (2022 - 2023)**  
+- **Frontend Engineer & UI/UX Designer [@Tootler.ai](https://tootler.ai/) (2022 - 2023)**  
   Built performant UIs and an AI-powered SOP generator for international students.
 
 ## 🎓 Education
