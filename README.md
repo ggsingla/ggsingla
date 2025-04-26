@@ -13,13 +13,13 @@ Welcome to my GitHub! I’m passionate about creating seamless, scalable, and vi
 
 ## 🧩 Featured Projects
 
-### 🔹 [ATC Reward Point System](https://ggsingla.vercel.app/projects/atc-reward-point-system)
+### 🔹 [ATC Reward Point System](https://ggsingla.com/projects/atc-reward-point-system)
 A corporate e-commerce rewards app with SSR, cart/checkout flows, and authentication.
 
-### 🔹 [ATC Admin Dashboard](https://ggsingla.vercel.app/projects/atc-admin-dash)
+### 🔹 [ATC Admin Dashboard](https://ggsingla.com/projects/atc-admin-dash)
 A full-featured transport management dashboard with analytics, booking, and data visualization.
 
-### 🔹 [SquadOps](https://ggsingla.vercel.app/projects/squadops)
+### 🔹 [SquadOps](https://ggsingla.com/projects/squadops)
 🏆 2nd place at HackMol 3.0 – A team collaboration platform with real-time AI-driven features.
 
 ### 🔹 [BhagavadGita.AI](https://bhagavadgita.ai)
@@ -43,7 +43,7 @@ Led the frontend development and managed a team of 15+ contributors.
 
 ## 🌱 Let's Connect
 
-- 🔗 [Portfolio](https://ggsingla.vercel.app)  
+- 🔗 [Portfolio](https://ggsingla.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/ggsingla)  
 - 📫 ggsingla777@gmail.com  
 
